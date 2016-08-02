@@ -15,7 +15,7 @@ body {
 
 ul.menu {
 	list-style: none;
-	margin: auto 0;
+	margin: 40px 80px;
 	padding: 0;
 }
 
@@ -23,7 +23,7 @@ ul.menu {
 	width: 220px;
 	height: 300px;
 	float: left;
-	margin-left: 5px;
+	margin-left: 10px;
 	margin-top: 20px;
 	background-color: #FBFBFB;
 	padding: 20px 10px 10px 10px;
@@ -52,9 +52,11 @@ ul.menu {
 	font-style: italic;
 	font-size: 0.8rem;
 	font-weight: 400; /* normal */
+	color: #6A6A6A;
 }
 
 .menu-item p:last-child {
 	font-size: 0.8rem;
 	font-weight: 300; /* ligth */
 }
+
